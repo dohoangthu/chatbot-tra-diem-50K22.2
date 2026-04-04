@@ -111,4 +111,4 @@ if df is not None:
             st.warning("Vui lòng nhập MSSV.")
 
 st.divider()
-st.caption("© 2026 - Giảng viên: Đỗ Hoàng Thu - DUE")s
+st.caption("© 2026 - Giảng viên: Đỗ Hoàng Thu - DUE")
