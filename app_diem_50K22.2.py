@@ -86,9 +86,8 @@ if df is not None:
                 st.divider()
 
                  # Thêm phần lưu ý về tỉ lệ điểm
-                st.warning("⚠️ **Lưu ý về tỉ lệ điểm:**\n\n"
-                          "• Tỉ lệ cột điểm **Thành phần 1 chính thức**: **10%**\n\n"
-                          "• Tỉ lệ cột điểm **Thành phần 2 chính thức**: **30%**")
+                st.warning("• Tỉ lệ cột điểm **Thành phần 1 chính thức**: **10%**\n\n"
+                           "• Tỉ lệ cột điểm **Thành phần 2 chính thức**: **30%**")
                 
                 # Chuẩn bị bảng điểm dọc
                 display_list = []
